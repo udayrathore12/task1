@@ -1,0 +1,30 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Take-Home Assignment II",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/udayrathore12.git"
+  },
+  "keywords": [
+    "task1"
+  ],
+  "author": "Uday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gist.github.com/udayrathore12"
+  },
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "homepage": "https://gist.github.com/udayrathore12",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "google-spreadsheet": "^3.3.0",
+    "sheetdb-node": "^0.0.12"
+  }
+}
